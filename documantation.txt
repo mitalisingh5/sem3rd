@@ -1,0 +1,9 @@
+GIT/GITHUB/GITBASH:
+1. Git is a version controller .
+2. GitHub is a platform to share the projects & repositories with one or more people.
+3. Git Bash (CLI) is a command line.
+THERE ARE 2 WAYS TO CREATE:
+1.locally to remote
+2.remote to locally
+
+
