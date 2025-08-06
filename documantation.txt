@@ -5,5 +5,6 @@ GIT/GITHUB/GITBASH:
 THERE ARE 2 WAYS TO CREATE:
 1.locally to remote
 2.remote to locally
+mini
 
 
